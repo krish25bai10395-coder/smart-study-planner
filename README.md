@@ -1,20 +1,20 @@
-Smart Study Planner
+##Smart Study Planner
 A Python-based study management system that helps students track study hours, analyze subject-wise scores, and visualize academic performance.
-📌 Overview
+##📌 Overview
 Smart Study Planner is a simple data-driven project built using Python, Pandas, and Matplotlib.
 It stores study data in CSV files and generates insights like average scores and total study hours along with graphical visualization.
-🎯 Objectives
+##🎯 Objectives
 Track subject-wise marks
 Monitor daily study hours
 Calculate average performance
 Visualize study patterns
 Improve time management
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Language: Python 3
 Libraries: Pandas, Matplotlib
 Storage: CSV Files
 Version Control: Git & GitHub
-📂 Project Structure
+##📂 Project Structure
 
 smart-study-planner/
 │
