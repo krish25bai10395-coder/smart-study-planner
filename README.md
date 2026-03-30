@@ -9,7 +9,7 @@ Data analysis using Pandas
 Data visualization using Matplotlib
 Version control using Git & GitHub
 🎯 Objectives
-Develop a structured study tracking system
+Develop a structured study tracking system.
 Store academic performance in CSV format.
 Analyze subject-wise scores.
 Monitor daily study hours.
@@ -41,6 +41,7 @@ smart-study-planner/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
 Dataset Details
 1️⃣ scores.csv
 Stores subject-wise marks.
